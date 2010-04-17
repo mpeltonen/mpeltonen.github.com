@@ -13,9 +13,11 @@
             <scope>compile</scope>
         </dependency>
     </dependencies>
-    <repository>
-        <id>ScalaToolsMaven2Repository</id>
-        <name>Scala-Tools Maven2 Repository</name>
-        <url>http://scala-tools.org/repo-releases/</url>
-    </repository>
+    <repositories>
+        <repository>
+            <id>ScalaToolsMaven2Repository</id>
+            <name>Scala-Tools Maven2 Repository</name>
+            <url>http://scala-tools.org/repo-releases/</url>
+        </repository>
+    </repositories>
 </project>
