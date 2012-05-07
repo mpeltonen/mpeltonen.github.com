@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<project xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>com.mojolly.scalate</groupId>
+    <artifactId>xsbt-scalate_2.9.2</artifactId>
+    <packaging>jar</packaging>
+    <description>xsbt-scalate</description>
+    <version>0.1.7-SNAPSHOT</version>
+    <licenses>
+        <license>
+            <name>MIT</name>
+            <url>https://github.com/mojolly/xsbt-scalate-generate/blob/master/LICENSE</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <name>xsbt-scalate</name>
+    <organization>
+        <name>com.mojolly.scalate</name>
+    </organization>
+    <dependencies>
+        <dependency>
+            <groupId>org.scala-lang</groupId>
+            <artifactId>scala-library</artifactId>
+            <version>2.9.2</version>
+            <scope>compile</scope>
+        </dependency>
+    </dependencies>
+</project>
