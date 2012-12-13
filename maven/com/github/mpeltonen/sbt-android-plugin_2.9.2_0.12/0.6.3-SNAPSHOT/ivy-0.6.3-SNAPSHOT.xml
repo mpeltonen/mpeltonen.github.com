@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ivy-module version="2.0" xmlns:e="http://ant.apache.org/ivy/extra">
-	<info organisation="com.github.mpeltonen" module="sbt-android-plugin" revision="0.6.3-SNAPSHOT" status="integration" publication="20121213103549" e:scalaVersion="2.9.2" e:sbtVersion="0.12">
+	<info organisation="com.github.mpeltonen" module="sbt-android-plugin" revision="0.6.3-SNAPSHOT" status="integration" publication="20121213110751" e:scalaVersion="2.9.2" e:sbtVersion="0.12">
 		<description>
 		sbt-android-plugin
 		</description>
